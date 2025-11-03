@@ -1,17 +1,21 @@
 # Output
     # Print Without a New Line with end=" "
-# print("Hello World!", end=" ")
-# print("I will print on the same line.")
+print("Hello World!", end=" ")
+print("I will print on the same line.")
+print(" ")
 
     # Print Numbers
-# print(3)
-# print(123)
+print(3)
+print(123)
+print(" ")
     #Abd functions
-# print(1 + 3)
-# print(5 * 6)
+print(5 * 6)
+print(1 + 3)
+print(" ")
 
     #Mix Text and Numbers
-# print("I'm", 27, "years old" )
+print("I'm", 27, "years old" )
+print(" ")
 
 # Output End
 
@@ -27,9 +31,11 @@
         # I am learning Python
         # Python is fun!
         # Let's code!
-# print("I am learning Python")
-# print("Python is fun!")
-# print("Let's code!")
+print("Exercise 1")
+print("I am learning Python")
+print("Python is fun!")
+print("Let's code!")
+print(" ")
     # End of Ex 1
 
     #Start of Ex 2
@@ -47,9 +53,11 @@
     # Виведи на екран речення:
     #
     # My name is Alex and I am 25 years old.
-# name = "Alex"
-# age = 27
-# print("My name is", name, "and I am", age, "years old")
+print("Exercise 2")
+name = "Alex"
+age = 27
+print("My name is", name, "and I am", age, "years old")
+print(" ")
     #End of Ex 2
 
     # Start of Ex 3
@@ -59,7 +67,8 @@
         #
         # Умова:
         # Виведи числа від 1 до 3 в один рядок через дефіс:
-# print(1, 2, 3, sep="-")
-# print(1, end="-")
-# print(2, end="-")
-# print(3)
+print("Exercise 3")
+print(1, 2, 3, sep="-")
+print(1, end="-")
+print(2, end="-")
+print(3)
