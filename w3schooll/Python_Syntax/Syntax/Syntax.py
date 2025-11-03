@@ -1,18 +1,19 @@
 # Start of Indentation
     # Python uses indentation to indicate a block of code
-
-# if 5 > 2:
-#   print("Five is greater than two!")
+if 5 > 2:
+  print("Five is greater than two!")
+  print(" ")
 
 # End of Indentation
 
 
 # Start of Virables
 
-# x = 5
-# y = "Hello World"
-# print(x)
-# print(y)
+x = 5
+y = "Hello World"
+print(x)
+print(y)
+print(" ")
 
 # End of Virables
 
@@ -39,9 +40,11 @@
         #
         # Використай однаковий тип лапок (або ' або ").
         #
-# print("Hello!")
-# print("Welcome to Python Learning")
-# print("Let's start coding!")
+print("Exercise 1")
+print("Hello!")
+print("Welcome to Python Learning")
+print("Let's start coding!")
+print(" ")
     # End of Ex 1
 #
 #
@@ -61,12 +64,10 @@
         # Очікуваний результат:
         #
         # Python syntax is easy!
-        #
-        #
-        # Підказка:
-        # Подумай, де не вистачає двокрапки та відступу.
-# if True:
-#     print("Python syntax is easy!")
+print("Exercise 2")
+if True:
+    print("Python syntax is easy!")
+    print(" ")
     # End of Ex 2
 
     # Start of Ex 3
@@ -83,10 +84,11 @@
         # Виводить "Program finished".
         # Додай коментарі, що пояснюють кожен етап.
 # Program start
-# print("Program started")
+print("Exercise 3")
+print("Program started")
 
 # Main part
-# print("Processing...")
+print("Processing...")
 
 # Program End
-# print("Program finished")
+print("Program finished")
