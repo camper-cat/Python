@@ -72,3 +72,5 @@ print(1, 2, 3, sep="-")
 print(1, end="-")
 print(2, end="-")
 print(3)
+    # End of Ex 3
+# End of GPT Exercises
