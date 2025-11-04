@@ -92,3 +92,5 @@ print("Processing...")
 
 # Program End
 print("Program finished")
+    # End of Ex 3
+# End of GPT exercises
