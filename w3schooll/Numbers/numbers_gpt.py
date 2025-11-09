@@ -23,8 +23,6 @@ x = 10       # int
 y = 3.5      # float
 
 print("Exercise 1:")
-print("Sum:", x + y)
-print("Sum:", x + y)
 print("x =", x)
 print("y =", y)
 print(" ")
@@ -65,11 +63,11 @@ print(" ")
 
 # Add comments explaining each step.
 
+print("Exercise 2:")
 number1 = (input("Enter the First number: "))                                   # Input number 1
 number2 = (input("Enter the Second number: "))                                  # Input number 2
 number1 = int(number1)                                                          # Convert to int
 number2 = float(number2)                                                        # Convert to float
-print("Exercise 2:")
 print("First number =", number1, ";" " it's has a type: ", type(number1))       # Print Variables and their type
 print("Second number =", number2, ";" " it's has a type: ", type(number2))      # Print Variables and their type
 print(f"Sum: {number1 + number2}")                                              # Print Sum of variables
