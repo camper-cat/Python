@@ -40,7 +40,6 @@ print()
 # ------------------------------ End of Exercise 2 -----------------
 
 # ----------------------------- Start of Exercise 3 -----------------
-
 # 🧩 Task 3: String Formatting
 # name = "Alex"
 # age = 30
@@ -57,6 +56,7 @@ age = 30
 
 print(f"My name is {name} I am {age}, years old")       # f-string format
 print("My name is {} I am {} years old.".format(name, age))
+
 
 # ------------------------------ End of Exercise 3 -----------------
 
