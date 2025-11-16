@@ -85,7 +85,7 @@ print("     Ex 3")
 # (e.g., -5 and 3, 4 and 0, 10 and 20) and observe how the result changes.
 
 a = 10
-b = -5
+b = 8
 
 if a > 0 and b > 0:
     print("Both numbers are positive")
