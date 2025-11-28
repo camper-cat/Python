@@ -96,3 +96,13 @@ print("_________End of Ex 3")
 # ------------The end of Task 3
 
 # ============================The end of Exercises
+
+print()
+
+# Another way for task 3
+numbers = [23, 5, 100, 44, 22, 12, 66, 45, 67, 5, 23]
+even_squares = []
+for x in numbers:
+    if x % 2 == 0:
+        even_squares.append(x * x)
+print(even_squares)
