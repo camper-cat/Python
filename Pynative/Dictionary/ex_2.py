@@ -5,6 +5,7 @@ my_dict = {
     'profession': 'Doctor'
 }
 
+# Output original dict
 print()
 print("Original dictionary: ")
 for key, value in my_dict.items():
@@ -12,6 +13,7 @@ for key, value in my_dict.items():
 
 print()
 
+# .pop()
 my_dict.pop('profession')
 
 print("Dictionary after pop('profession'): ")
@@ -20,6 +22,7 @@ for key, value in my_dict.items():
 
 print()
 
+# Output all key-value
 print("Printing all key-value pairs: ")
 for key, value in my_dict.items():
     print(f"{key}: {value}")
@@ -27,7 +30,7 @@ for key, value in my_dict.items():
 print()
 
 
-#
+# If 'key' in dict
 if "age" in my_dict:
     print(f"The key 'age' is in the dictionary.")
 else:
